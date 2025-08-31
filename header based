@@ -1,0 +1,4 @@
+X-Original-URL: /admin/
+X-Rewrite-URL: /profile/
+X-Forwarded-Host: attacker.com
+X-Forwarded-Path: /static.css
