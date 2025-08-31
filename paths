@@ -1,0 +1,10 @@
+/dashboard.png
+/user.js
+/admin.css
+/orders.jpg
+
+# Try fake directories:
+ /admin.css/login
+ /account.js/test
+ /settings/fake.js
+ /orders/test/style.css
